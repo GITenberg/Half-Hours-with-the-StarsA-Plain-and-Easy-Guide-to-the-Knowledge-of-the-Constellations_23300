@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/6917
     wikipedia: http://en.wikipedia.org/wiki/Richard_Anthony_Proctor
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/23300#Half-Hours-with-the-StarsA-Plain-and-Easy-Guide-to-the-Knowledge-of-the-Constellations
 gutenberg_issued: '2007-11-03'
 gutenberg_type: Text
 identifiers:
